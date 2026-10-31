@@ -1,50 +1,37 @@
-# Secret Neighbor Roblox Maps
+# Secret Neighbor Roblox Maps by RyZe
 
-A decompiled map collection from **Secret Neighbor on Roblox**.
+Welcome to my Secret Neighbor Roblox Maps collection!
 
-## 📖 About
+This repository is intended for Roblox Studio creators and map builders interested in studying and creating their own environments.
 
-This repository contains decompiled map files from the Roblox experience Secret Neighbor.
+## 📥 Download
 
-The project is intended for educational purposes, map exploration, and game development experimentation.
+Please download files only from this official repository or my official Discord server.
 
-These maps may serve as a reference for developers interested in studying map structures and creating their own Roblox experiences, subject to the rights and permissions of the original creators.
+**GitHub Repository:** https://github.com/RyZe72/SecretNeighbor-Roblox-Maps
 
-## 🗺️ Map Collection
+**Discord Server:** https://discord.gg/JcZA4p2BHk
 
-- Fight Map
-- Lobby Map
-- Map 1
-- Map 2
-- Map 3
-- Map 4
-- Map 5
-- Custom Game Map
+Do not trust reuploaded files from unknown sources.
 
-## 💬 Community | Project Oldr
+## 🛠️ Usage
 
-Join the **Project Oldr** Discord server to connect with the community, discuss the project, and follow updates.
-
-**[Join Project Oldr on Discord](https://discord.gg/JcZA4p2BHk)**
+- Use authorized files for personal learning and creative projects.
+- Verify files before opening them in Roblox Studio.
+- Do not claim other creators' work as your own.
+- Respect the intellectual property rights of the original developers.
 
 ## ⚠️ Terms of Use
 
-- Do not redistribute, reupload, or republish this collection without my prior written permission, to the extent I have the rights to authorize such restrictions.
-- Do not claim my original contributions as your own.
-- Obtain the necessary permissions before reusing content belonging to me or other rights holders.
-- Respect the intellectual property rights of the original game creators.
-
-Unauthorized redistribution may be reported to the relevant platform or rights holders.
+- Do not redistribute the files themselves.
+- You may share the link to this repository or my official Discord server.
+- Do not modify files and redistribute them as official versions of this collection.
+- Obtain permission from the original rights holders before reusing their content.
 
 ## ⚖️ Disclaimer
 
-This is an unofficial community project. It is not affiliated with, endorsed by, or officially supported by Roblox or the creators of Secret Neighbor.
+This repository is an independent project and is not affiliated with Roblox Corporation or the creators of Secret Neighbor.
 
-All original game assets and intellectual property remain the property of their respective owners.
+All original game content remains the property of its respective rights holders.
 
-## 👤 Author
-
-Maintained by [@RyZe72](https://github.com/RyZe72).
-
-For permission requests, please contact me through my GitHub profile.
-
+Files are provided without warranty. Use them at your own risk.
